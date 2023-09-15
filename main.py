@@ -3,12 +3,12 @@ import json
 import telebot
 
 ##TOKEN DETAILS
-TOKEN = "TRON"
+TOKEN = "rs"
 
-BOT_TOKEN = "5710284858:AAHcIDYAtWAC01p8BsHRl4cIwhcKpBqNlTQ"
-PAYMENT_CHANNEL = "@testpostchnl" #add payment channel here including the '@' sign
-OWNER_ID = 5151868182 #write owner's user id here.. get it from @MissRose_Bot by /id
-CHANNELS = ["@testpostchnl"] #add channels to be checked here in the format - ["Channel 1", "Channel 2"] 
+BOT_TOKEN = "6071261576:AAFT6Vg8mo904AdfKefdq32Pmc0jt416lVc"
+PAYMENT_CHANNEL = "@dkwakaak" #add payment channel here including the '@' sign
+OWNER_ID = 6358212605 #write owner's user id here.. get it from @MissRose_Bot by /id
+CHANNELS = ["@dkwakaak"] #add channels to be checked here in the format - ["Channel 1", "Channel 2"] 
               #you can add as many channels here and also add the '@' sign before channel username
 Daily_bonus = 1 #Put daily bonus amount here!
 Mini_Withdraw = 0.5  #remove 0 and add the minimum withdraw u want to set
